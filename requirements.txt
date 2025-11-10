@@ -1,0 +1,5 @@
+transformers==4.44.2
+torch==2.2.1
+optimum[onnxruntime]==1.16.0
+streamlit==1.36.0
+accelerate==0.28.0
